@@ -41,6 +41,17 @@ This project is a Node.js Express server that fetches the top 10 cryptocurrency 
   - volume: 24-hour volume
   - base_unit: Base unit
 
-## Render Deployment
-   ```bash
-   https://quadb-assignment-fullstack-application.onrender.com
+## Deployment
+
+### Render Deployment
+
+You can access the deployed server on Render at the following URL:
+
+[https://quadb-assignment-fullstack-application.onrender.com](https://quadb-assignment-fullstack-application.onrender.com)
+
+### Netlify Deployment
+
+You can access the deployed frontend on Netlify at the following URL:
+
+[https://cryptoticker.netlify.app](https://cryptoticker.netlify.app)
+
