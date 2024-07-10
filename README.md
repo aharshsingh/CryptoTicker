@@ -41,3 +41,6 @@ This project is a Node.js Express server that fetches the top 10 cryptocurrency 
   - volume: 24-hour volume
   - base_unit: Base unit
 
+## Render Deployment
+   ```bash
+   https://quadb-assignment-fullstack-application.onrender.com
