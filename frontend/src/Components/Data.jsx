@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 
 function Data() {
   const [tickers, setTickers] = useState([]);
-
+//http://localhost:7000/toptickers
   useEffect(() => {
-    fetch("http://localhost:7000/toptickers")
+    fetch("https://quadb-assignment-fullstack-application.onrender.com/toptickers")
       .then((response) => response.json())
       .then((data) => {
         //console.log(data);
